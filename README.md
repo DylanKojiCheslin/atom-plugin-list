@@ -1,12 +1,12 @@
 # atom-plugin-list
 list of atom plugins  
 
-|name | status|
-|--------------- | ---------------|
-|atom-easy-jsdoc | |
+|name | status| notes|
+|--------------- | ---------------| ---------------|
+|atom-easy-jsdoc | | 
 |meteor-api | |
 |meteor-snippets | |
 |react | |
 |jsdoc-generator | |
-|linter | disabled|
-|linter-eslint | disabled|
+|linter | disabled| try on new version|
+|linter-eslint | disabled| try on new version|
