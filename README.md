@@ -10,3 +10,4 @@ list of atom plugins
 |jsdoc-generator | |
 |linter | disabled| try on new version|
 |linter-eslint | disabled| try on new version|
+|editorconfig | |
