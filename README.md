@@ -11,4 +11,4 @@ list of atom plugins
 |linter | disabled| try on new version|
 |linter-eslint | disabled| try on new version|
 |editorconfig | |
-|language-babel | https://github.com/gandm/language-babel#installation |
+|language-babel |  | https://github.com/gandm/language-babel#installation |
