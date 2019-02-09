@@ -14,3 +14,9 @@ list of atom plugins
 |linter-eslint | disabled| try on new version|
 |editorconfig | |
 |language-babel |  | https://github.com/gandm/language-babel#installation |
+
+
+
+for keybinding file
+'atom-text-editor':
+  'ctrl-alt-i': 'auto-indent:apply'
