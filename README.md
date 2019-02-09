@@ -4,9 +4,11 @@ list of atom plugins
 |name | status| notes|
 |--------------- | ---------------| ---------------|
 |atom-easy-jsdoc | | 
-|meteor-api | |
-|meteor-snippets | |
-|react | |
+|meteor-api | meteor |
+|meteor-snippets | meteor |
+|atom-jasmine | |
+|atom-react-snippits | |
+|react | disabled | re-try |
 |jsdoc-generator | |
 |linter | disabled| try on new version|
 |linter-eslint | disabled| try on new version|
