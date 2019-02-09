@@ -18,5 +18,7 @@ list of atom plugins
 
 
 for keybinding file
+```
 'atom-text-editor':
   'ctrl-alt-i': 'auto-indent:apply'
+```
