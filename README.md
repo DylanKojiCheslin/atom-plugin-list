@@ -17,7 +17,11 @@ list of atom plugins
 
 
 
-for keybinding file
+for keybinding to work with auto indent on ubuntu
+```
+apm install auto-indent
+```
+to keybindings "keybindings.cson' file
 ```
 'atom-text-editor':
   'ctrl-alt-i': 'auto-indent:apply'
